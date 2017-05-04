@@ -1,0 +1,1 @@
+Debugging background.js logic: -Sometimes ctrl down and up don't work as expected

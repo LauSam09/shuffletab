@@ -1,0 +1,111 @@
+.body {
+	padding-top:10px;
+	
+}
+
+.noborder {
+	border:0px;
+	padding-bottom:0px;
+	padding-top:8px;
+}
+
+.pageHeading {
+	color:white;
+	margin-top:3px;
+	margin-bottom:3px;
+	
+}
+
+.checkbox, .radio {
+    position: relative;
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 8px;
+}
+
+.divHeader {
+	background-color: #000080;
+	padding: 10px;
+	border-radius: 8px;
+}
+
+.tipPanel {
+	border-right:1px solid #ccc;
+	padding-top:13px;
+	padding-left:5px;
+}
+
+.logo {
+	border-bottom:1px solid #ccc;
+	padding:15px;padding-top:18px;
+	padding-bottom:18px;
+	margin-right:5px;
+}
+
+.playbutton {
+	text-align:center;
+	margin-right:5px;
+	padding:15px;
+}
+
+.glyphicon.glyphicon-play { 
+	font-size:22px;
+	vertical-align:text-top; 
+}
+
+.round-button {
+border: none;
+    width: 55px;
+    height: 55px;
+    line-height: 50px;
+    border-radius: 50%;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    background: rgb(10,0,46);
+    font-size: 28px;
+    font-weight: bold;
+    vertical-align: middle;
+    padding: 0px;
+    padding-left: 2px;
+    padding-top: 1px;
+}
+
+.round-button:hover {
+    background-color: #286090;
+}
+
+.round-button:focus {
+    color: #fff;
+	background-color: #122b40;
+    border-color: #122b40;
+	border-radius:50%;
+	outline-style:none;
+}
+
+.round-button:active {
+	border-color: #122b40;
+	color: #fff;
+    background-color: #204d74;
+	outline-style:none;
+}
+
+.settingsHeader {
+	border-bottom:1px solid #ccc;
+	font-size:12pt;
+}
+
+.terminator {
+	font-weight:normal;
+	border-bottom:1px solid #ccc;
+	margin-right: 15px;
+}
+
+.feedback {
+    background-color:rgb(10,0,46);
+    border:none;
+}
+
+.feedback:active {
+	outline-style:none;
+}
