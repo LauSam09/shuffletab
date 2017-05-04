@@ -2,13 +2,13 @@
 	"manifest_version": 2,
 
 	"name": "ShuffleTab",
-	"description": "Keyboard shortcut tool for managing tabs and windows",
+	"description": "Keyboard shortcut tool for managing tabs and windows.",
 	"version": "1.50",
 	"offline_enabled": true,
 	
-	"icons" : { "16" : "icon2.png",
-				"32" : "icon2.png",
-				"128" : "icon.png"
+	"icons" : { "16" : "images/icon2.png",
+				"32" : "images/icon2.png",
+				"128" : "images/icon.png"
 	},
 	
 	"browser_action": {
