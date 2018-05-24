@@ -12,7 +12,3 @@ Located in `js/background.js`, the functionality is split over the four keyboard
 * `[Control+LEFT/RIGHT]`: Moves the current tab to the left or right respectively.
 * `[Control+DOWN]`: Moves the selected (and optionally additional tabs) to a new window.
 * `[Control+UP]`: Returns the selected tab to the window it was previously in.
-
-## Disclaimer
-I am not a web developer nor am I proficient in javascript - I was simply surprised that this functionality was not already available and had a shot at scripting it. Improvements and recommendations are welcome!
-
